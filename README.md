@@ -6,7 +6,7 @@ Sou desenvolvedora e gosto de trabalhar tanto no front quanto no back-end, com e
 ## Sobre Mim:   
 
 💻 Técnica em Desenvolvimento de Sistemas pela Etec   
-🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Unicsul   
+🎓 Estudando Análise e Desenvolvimento de Sistemas pela Unicsul   
 📚 Estudando Splunk Cloud e Enterprise e Inglês   
 🌎 Explorando novos desafios e tecnologias    
 ❤ Amo aprender algo novo!
