@@ -1,12 +1,12 @@
 
-### Nicolly Chaves 💜
+## Nicolly Chaves 💜
 
 Sou desenvolvedora e gosto de trabalhar tanto no front quanto no back-end, com experiência em Java, JavaScript, Python, HTML e CSS. Tenho conhecimento intermediário em SQL e MySQL, e também gosto de cuidar da parte visual, sempre com carinho e atenção ao design. Estou sempre em busca de aprender coisas novas, encarar desafios e me manter atualizada com as tecnologias. Ah, e tenho um carinho especial pela área de cibersegurança, que venho explorando cada vez mais com muita curiosidade!
 
 ## Sobre Mim:   
 
 💻 Técnica em Desenvolvimento de Sistemas pela Etec   
-🎓 Graduada em Análise e Desenvolvimento de Sistemas pela unicsul   
+🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Unicsul   
 📚 Estudando Splunk Cloud e Enterprise e Inglês   
 🌎 Explorando novos desafios e tecnologias    
 ❤ Amo aprender algo novo!
