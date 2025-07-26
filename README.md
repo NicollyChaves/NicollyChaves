@@ -18,7 +18,7 @@ Sou desenvolvedora e gosto de trabalhar tanto no front quanto no back-end, com e
 
 <div align="center">  
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicollyChaves&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117"/> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPoint08&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyChaves&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
 </div>
 
 
